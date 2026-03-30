@@ -1,0 +1,4 @@
+sky,50,14.86,LOSE
+akash,30,8.22,LOSE
+Naima,0,17.73,LOSE
+Pinky,30,15.21,LOSE
