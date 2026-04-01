@@ -153,7 +153,7 @@ Feel free to fork, improve, and submit pull requests.
 
 **Abdur Rahman**
 
-Computer & Communication Engineering Student
+```Computer & Communication Engineering Student```
 
 Aspiring Software Developer 🚀
 
